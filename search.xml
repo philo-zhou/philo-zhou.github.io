@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title></title>
-      <link href="2021/03/30/bo-ke-ge-shi-tou/"/>
-      <url>2021/03/30/bo-ke-ge-shi-tou/</url>
+      <title>test</title>
+      <link href="2021/03/29/test/"/>
+      <url>2021/03/29/test/</url>
       
-        <content type="html"><![CDATA[<p>-–<br>title: 腾讯凉面<br>top: false<br>cover: false<br>toc: true<br>mathjax: true<br>date: 2021-03-24 21:53:59<br>password:<br>summary:<br>tags: 面经<br>categories: 春招<br>-–</p><h1 id="这是一级"><a href="#这是一级" class="headerlink" title="这是一级"></a>这是一级</h1><h2 id="这是二级"><a href="#这是二级" class="headerlink" title="这是二级"></a>这是二级</h2>]]></content>
+        <content type="html"><![CDATA[<pre class="line-numbers language-c++" data-language="c++"><code class="language-c++">#include&lt;iostream&gt;using namespace std;int main()&#123;    cout &lt;&lt; &quot;KKK&quot; &lt;&lt; endl;    return 0;&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
       
@@ -17,13 +17,25 @@
     
     
     <entry>
-      <title>test</title>
-      <link href="2021/03/29/test/"/>
-      <url>2021/03/29/test/</url>
+      <title>腾讯凉面</title>
+      <link href="2021/03/24/bo-ke-ge-shi-tou/"/>
+      <url>2021/03/24/bo-ke-ge-shi-tou/</url>
       
-        <content type="html"><![CDATA[<pre class="line-numbers language-c++" data-language="c++"><code class="language-c++">#include&lt;iostream&gt;using namespace std;int main()&#123;    cout &lt;&lt; &quot;KKK&quot; &lt;&lt; endl;    return 0;&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h1 id="这是一级"><a href="#这是一级" class="headerlink" title="这是一级"></a>这是一级</h1><h2 id="这是二级"><a href="#这是二级" class="headerlink" title="这是二级"></a>这是二级</h2><p><img src="C:\Users\98648\AppData\Roaming\Typora\typora-user-images\image-20210330110533051.png" alt="image-20210330110533051"></p>]]></content>
       
       
+      <categories>
+          
+          <category> 春招 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面经 </tag>
+            
+        </tags>
       
     </entry>
     
