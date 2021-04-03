@@ -4,25 +4,13 @@
   
     
     <entry>
-      <title>春招面经总结</title>
+      <title>博客头内容</title>
       <link href="2021/04/03/test/"/>
       <url>2021/04/03/test/</url>
       
-        <content type="html"><![CDATA[<p><img src="%5C%E6%96%87%E7%AB%A0%E5%86%85%E7%9A%84%E5%9B%BE%E7%89%87%5C%E5%8D%9A%E5%AE%A2%E5%A4%B4%E9%85%8D%E7%BD%AE.png" alt="博客头设置"></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/image/blog_head" alt="博客头设置"></p>]]></content>
       
       
-      <categories>
-          
-          <category> 春招 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 面经 </tag>
-            
-        </tags>
       
     </entry>
     
