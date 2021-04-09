@@ -593,9 +593,9 @@ header .go-back i {
     font-weight: 400;
 }
 
-/* @-webkit-keyframes rainbow {
+@-webkit-keyframes rainbow {
 
-    0%,
+    /* 0%,
     100% {
         background: rgba(110, 126, 129, 0.75);
         background: linear-gradient(45deg, rgba(110, 126, 129, 0.75) 0%, rgba(110, 126, 129, 0.75) 100%);
@@ -636,12 +636,12 @@ header .go-back i {
         background: linear-gradient(45deg, rgba(110, 126, 129, 0.75) 0%, rgba(110, 126, 129, 0.75) 100%);
         background: -moz-linear-gradient(135deg, rgba(110, 126, 129, 0.75) 0%, rgba(110, 126, 129, 0.75) 100%);
         background: -webkit-linear-gradient(135deg, rgba(110, 126, 129, 0.75) 0%, rgba(110, 126, 129, 0.75) 100%);
-    }
+    } */
 }
 
 @keyframes rainbow {
 
-    0%,
+    /* 0%,
     100% {
         background: rgba(110, 126, 129, 0.75);
         background: linear-gradient(45deg, rgba(110, 126, 129, 0.75) 0%, rgba(110, 126, 129, 0.75) 100%);
@@ -682,8 +682,8 @@ header .go-back i {
         background: linear-gradient(45deg, rgba(110, 126, 129, 0.75) 0%, rgba(110, 126, 129, 0.75) 100%);
         background: -moz-linear-gradient(135deg, rgba(110, 126, 129, 0.75) 0%, rgba(110, 126, 129, 0.75) 100%);
         background: -webkit-linear-gradient(135deg, rgba(110, 126, 129, 0.75) 0%, rgba(110, 126, 129, 0.75) 100%);
-    }
-} */
+    } */
+}
 
 .index-card {
     margin-top: -10px;
